@@ -146,7 +146,7 @@ video {
 /* 影片上的背景顏色 */
 #video:after {
   content: '';
-  opacity: 0.75;
+  opacity: 0.6;
   background: #000000; 
   background: -moz-linear-gradient(top, #000000 0%,#000000 0%)); 
   background: -webkit-linear-gradient(top, #000000 0%,#000000 0%)); 
